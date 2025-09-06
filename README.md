@@ -18,7 +18,7 @@ A lightweight, browser-based implementation of the classic physics-based puzzle 
 1.  Clone this repository:
 
     ```bash
-    git clone https://github.com/angrybirdsjs/angrybirdsjs.github.io)
+    git clone https://github.com/angrybirdsjs/angrybirdsjs.github.io
     ```
 
 2.  Navigate to the project folder:
